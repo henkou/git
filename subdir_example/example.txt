@@ -1,3 +1,5 @@
 무궁화 삼천리 이탄
 git branch
 git subdir01 -> mkdir subdir_example -> git add example.txt
+이번에는 수정 후 다시 커밋
+또 수정후 다시 커밋 후 push
